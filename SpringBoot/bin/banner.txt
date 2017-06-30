@@ -1,4 +1,7 @@
-�ⳬ��SpringBootӦ��
+
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+吴超的SpringBoot应用
 ${application.version}
 ${application.formatted-version}
 ${spring-boot.version}
