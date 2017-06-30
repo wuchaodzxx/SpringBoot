@@ -1,3 +1,4 @@
+Îâ³¬µÄSpringBootÓ¦ÓÃ
 ${application.version}
 ${application.formatted-version}
 ${spring-boot.version}
